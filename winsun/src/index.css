@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h5 {
+     width: 105px;
+     height: 29px;
+     font-family: 'Axiforma';
+     font-style: normal;
+     font-weight: 600;
+     font-size: 18px;
+     line-height: 160%;
+     color:  #1D2B4F;
+}
+
+h3 {
+  width: 144px;
+  height: 40px;
+  font-family: 'Axiforma';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  line-height: 160%;
+  color: #000000;
+   }
+
+p {
+  width: 179px;
+  height: 24px;
+  
+  /* Paragraph/Reguler/Label - 12px */
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  }
+
+  .form-group button {
+    background: #005981;
+    width: 129px;
+    height: 58px;
+    left: 625px;
+    top: 697px;
+    
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: 2px solid black;
+  }
+
+  
+  .form-control {
+    /* margin-top:15px;
+    margin-bottom: 10px; */
+    margin: 10px 0px 10px 0px ;
+  }
